@@ -1,0 +1,10 @@
+name: blerror
+displayName: "Error"
+subtitle: "\u26A0бля"
+author: "[#ace3f3]Xenonix"
+description:Change error texture for "бля".
+version: "1.0"
+minGameVersion: "157"
+java: false
+hidden: true
+repo: Xenonixq/ErrorобЪясни этот код мода для миндастри
