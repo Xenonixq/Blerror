@@ -1,1 +1,1 @@
-![Blerror](social-preview.png)
+![Blerror](preview.png)
