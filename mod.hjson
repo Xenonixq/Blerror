@@ -1,0 +1,10 @@
+name: blerror
+displayName: "Blerror"
+subtitle: "\u26A0бля"
+author: "Xenonix"
+description:Изменяет ohno на "бля".
+version: "1.0"
+minGameVersion: "146"
+java: false
+hidden: true
+repo: Xenonixq/Blerror
